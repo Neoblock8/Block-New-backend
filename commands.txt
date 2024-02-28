@@ -1,0 +1,8 @@
+export ETHEREUM_JSONRPC_VARIANT=besu
+export ETHEREUM_JSONRPC_HTTP_URL=http://localhost:8545
+export API_V2_ENABLED=true
+export COIN=MEGA
+export COIN_NAME=MEGA
+export DISPLAY_TOKEN_ICONS=true
+export DATABASE_URL=postgresql://postgres:blockscout_db2@localhost:5432/blockscout
+export COIN_PRICE=0.00001
